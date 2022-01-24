@@ -1,0 +1,6 @@
+{
+    "files.autoSave": "onFocusChange",
+    "liveServer.settings.port": 2929,
+    "liveServer.settings.root": "..",
+    "liveServer.settings.host": "192.168.2.102"
+}
